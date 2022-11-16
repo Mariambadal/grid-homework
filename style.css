@@ -48,7 +48,7 @@ body {
 }
 
 .banner {
-  background-color: rgb(229, 233, 14);
+  background-color: rgb(227, 227, 37);
   grid-column: 1 / span 4;
   grid-row: 12 / span 2;
 }
